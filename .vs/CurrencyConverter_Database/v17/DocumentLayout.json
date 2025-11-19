@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\partion A\\WORK\\Udemy\\Complete C# Masterclass\\CurrencyConverter_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B15A9A-FADD-4748-A1C0-E85BEDE73FE3}|CurrencyConverter_Database\\CurrencyConverter_Database.csproj|d:\\partion a\\work\\udemy\\complete c# masterclass\\currencyconverter_database\\currencyconverter_database\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B15A9A-FADD-4748-A1C0-E85BEDE73FE3}|CurrencyConverter_Database\\CurrencyConverter_Database.csproj|solutionrelative:currencyconverter_database\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B15A9A-FADD-4748-A1C0-E85BEDE73FE3}|CurrencyConverter_Database\\CurrencyConverter_Database.csproj|d:\\partion a\\work\\udemy\\complete c# masterclass\\currencyconverter_database\\currencyconverter_database\\openexchangeapi\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B15A9A-FADD-4748-A1C0-E85BEDE73FE3}|CurrencyConverter_Database\\CurrencyConverter_Database.csproj|solutionrelative:currencyconverter_database\\openexchangeapi\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B15A9A-FADD-4748-A1C0-E85BEDE73FE3}|CurrencyConverter_Database\\CurrencyConverter_Database.csproj|d:\\partion a\\work\\udemy\\complete c# masterclass\\currencyconverter_database\\currencyconverter_database\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3B15A9A-FADD-4748-A1C0-E85BEDE73FE3}|CurrencyConverter_Database\\CurrencyConverter_Database.csproj|solutionrelative:currencyconverter_database\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Root.cs",
+              "DocumentMoniker": "D:\\partion A\\WORK\\Udemy\\Complete C# Masterclass\\CurrencyConverter_Database\\CurrencyConverter_Database\\OpenExchangeAPI\\Root.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter_Database\\OpenExchangeAPI\\Root.cs",
+              "ToolTip": "D:\\partion A\\WORK\\Udemy\\Complete C# Masterclass\\CurrencyConverter_Database\\CurrencyConverter_Database\\OpenExchangeAPI\\Root.cs",
+              "RelativeToolTip": "CurrencyConverter_Database\\OpenExchangeAPI\\Root.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T05:08:39.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\partion A\\WORK\\Udemy\\Complete C# Masterclass\\CurrencyConverter_Database\\CurrencyConverter_Database\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter_Database\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\partion A\\WORK\\Udemy\\Complete C# Masterclass\\CurrencyConverter_Database\\CurrencyConverter_Database\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CurrencyConverter_Database\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAgwNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:06:11.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "f4d80e19-6424-4981-9b2c-c45ad24f2440",
+        "Display": 1,
+        "X": 545,
+        "Y": -62,
+        "Width": 1496,
+        "Height": 788,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\partion A\\WORK\\Udemy\\Complete C# Masterclass\\CurrencyConverter_Database\\CurrencyConverter_Database\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CurrencyConverter_Database\\MainWindow.xaml",
+              "ToolTip": "D:\\partion A\\WORK\\Udemy\\Complete C# Masterclass\\CurrencyConverter_Database\\CurrencyConverter_Database\\MainWindow.xaml",
+              "RelativeToolTip": "CurrencyConverter_Database\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T15:06:12.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
